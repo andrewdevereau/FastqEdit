@@ -1,1 +1,3 @@
-'My fastq editing project' 
+This is a project to develop a tool which can edit fastq files to add specified variants
+The idea is to be able to add clinically interesting variants to public normal sequence data e.g. from GIAB
+The current inputs are two paired end FASTQ files and a BAM slice for the position where we want the variant
